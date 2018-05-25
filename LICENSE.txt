@@ -1,3 +1,8 @@
 This is a license text:b3ad56ff653413da6fa6;
  add  chacek work and stage;
-add remote line'
+add remote line' ;
+
+add new one no-ff;
+add new two no-ff;
+
+
